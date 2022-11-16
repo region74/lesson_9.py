@@ -47,7 +47,7 @@ while True:
         f'Правильных ответов: {good_answer}, Неправильных ответов: {bad_answer} \nПроцент верных ответов: {avg_good}, Процент неправильных ответов: {avg_bad}')
     print('Игра окончена, хотите повторить (да/нет)?:')
     ask = input()
-    if ask == 'нет':
+    if ask == 'нет' or 'Нет' or 'No' or 'no':
         break
     else:
         continue
