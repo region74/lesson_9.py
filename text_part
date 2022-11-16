@@ -1,0 +1,31 @@
+LIST
+
+1. list.append('tmp')
+2. list.count('tmp')
+3. list.sort()
+4. list.remove('tmp')
+5. list.reverse()
+
+DICT
+
+1. dict.items()
+2. dict.keys()
+3. dict.values()
+4. dict.update(['tmp'])
+5. dict.popitem()
+
+SET
+
+1. set.add(123)
+2. set.remove(123)
+3. set.clear()
+4. set.copy()
+5. set.discard()
+
+STR
+tmp='anytext'
+1. len(tmp)
+2. tmp.lower()
+3. tmp.isalpha()
+4. tmp.replace(any,simple)
+5. tmp.isdigit()
